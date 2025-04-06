@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  height: 100svh;
+  width: 100svw;
+  background-color: rgb(250, 233, 235);
+}
+
+p {
+  margin: 0;
+}
+
+@font-face {
+  font-family: '18vag';
+  src: url(~/assets/fonts/18VAG-Rounded-M-Normal.ttf);
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cataneo';
+  src: url(~/assets/fonts/Cataneo-BT-Regular.ttf);
+  font-weight: 500;
+  font-style: normal;
+}
